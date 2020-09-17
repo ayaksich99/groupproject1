@@ -1,0 +1,26 @@
+#main{
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.form-group{
+    margin:15px;
+    align-content: center;
+}
+#header{
+    text-align: center;
+    font-family: cursive;
+}
+#results{
+    align-content: center;
+    display: block;
+    border: 1px solid black;
+    border-style: solid;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
